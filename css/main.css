@@ -17,4 +17,5 @@
 .body{
     font-family: 'Poppins', sans-serif;
     color: #858585;
+    scroll-behavior: smooth;
 }
